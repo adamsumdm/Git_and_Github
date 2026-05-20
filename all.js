@@ -1,0 +1,1 @@
+console.log('this is all.js say hi to everyone in the house.');
